@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759972690506",
+    "project_id": "walkie-talkie-2dd5a",
+    "storage_bucket": "walkie-talkie-2dd5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759972690506:android:7335617eb82c5d535e04b3",
+        "android_client_info": {
+          "package_name": "com.example.walkie_talkie_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXVZmCGK4PYbwW17-ZsLOXThENXmPuc50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
